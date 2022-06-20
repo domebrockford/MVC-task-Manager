@@ -1,0 +1,16 @@
+.head-label {
+    margin-left: 10px !important;
+}
+.right-panel {
+    float: right;
+}
+.social-icon:hover {
+    transform: scale(1.2);
+}
+.social-icon {
+    width: 40px;
+    height: 40px;
+}
+.logo {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
